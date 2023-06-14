@@ -11,8 +11,8 @@ function Cards() {
           <ul className="cards__items">
             <CardItem
               src="images/img-1.jpg"
-              text="Learn More About Me!"
-              path="/About-Me"
+              text="Learn More About Less Professional Ellis!"
+              path="/More-About-Me"
             />
 
             <CardItem
