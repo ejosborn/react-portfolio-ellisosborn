@@ -5,21 +5,10 @@ import { Button } from "./Button";
 
 function Navbar() {
   const [click, setClick] = useState(false);
-  const [button, setButton] = useState(true);
 
   //reverses value when clicked
   const handleClick = () => setClick(!click);
   const closeMobileMenu = () => setClick(false);
-
-  const showButton = () => {
-    if (window.innerWidth <= 960) {
-      setButton(false);
-    } else {
-      setButton(true);
-    }
-  };
-
-  window.addEventListener("resize", showButton);
 
   return (
     <>
