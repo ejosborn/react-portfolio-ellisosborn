@@ -12,6 +12,7 @@ import Projects from "./components/Pages/Projects";
 import ContactMe from "./components/Pages/ContactMe";
 import AboutMe from "./components/Pages/About-Me";
 import MyLatestProject from "./components/Pages/My-Latest-Project";
+import MoreAboutMe from "./components/Pages/More-About-Me";
 
 function App() {
   return (
@@ -33,6 +34,11 @@ function App() {
             exact
             Component={MyLatestProject}
           />
+          <Route
+            path="/More-About-Me"
+            exact
+            Component={MoreAboutMe}
+          ></Route>
         </Routes>
       </Router>
     </>
