@@ -12,10 +12,10 @@ function VideoSection() {
       <div className="hero-btns">
         <Button
           className="btns"
-          buttonStyle="btn--outline"
+          buttonStyle="btn--primary"
           buttonSize="btn--large"
         >
-          GET STARTED
+          About Me! <i class="fa-light fa-user-astronaut"></i>
         </Button>
       </div>
     </div>
