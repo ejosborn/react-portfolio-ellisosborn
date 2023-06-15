@@ -1,12 +1,12 @@
-import VideoSection from "../VideoSection";
-import Cards from "../Cards";
+import VideoSectionHome from "../VideoSectionHome";
+import CardsHome from "../CardsHome";
 import Footer from "../Footer";
 
 function Home() {
   return (
     <>
-      <VideoSection />
-      <Cards />
+      <VideoSectionHome />
+      <CardsHome />
       <Footer />
     </>
   );
