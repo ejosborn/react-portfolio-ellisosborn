@@ -13,11 +13,6 @@ function Navbar() {
     <>
       <nav className="navbar">
         <div className="navbar-container">
-          {/* Name and Logo at Top left */}
-          <Link to="/" className="navbar-logo">
-            TRVL <i className="fab fa-typo3" />
-          </Link>
-
           {/* Hamburger Icon */}
           <div className="menu-icon" onClick={handleClick}>
             <i
@@ -58,10 +53,10 @@ function Navbar() {
               </Link>
             </li>
 
-            {/* Home Page */}
+            {/* Contact Page */}
             <li className="nav-item">
               <Link
-                to="/"
+                to="/Contact-Me"
                 className="nav-links"
                 onClick={closeMobileMenu}
               >

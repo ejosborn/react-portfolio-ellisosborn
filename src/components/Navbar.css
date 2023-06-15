@@ -22,22 +22,6 @@
   max-width: 1500px;
 }
 
-.navbar-logo {
-  color: #fff;
-  justify-self: start;
-  margin-left: 20px;
-  cursor: pointer;
-  text-decoration: none;
-  font-size: 2rem;
-  display: flex;
-  align-items: center;
-}
-
-.fa-typo3 {
-  margin-left: 0.5rem;
-  font-size: 1.8rem;
-}
-
 .nav-menu {
   display: grid;
   grid-template-columns: repeat(4, auto);
@@ -46,7 +30,7 @@
   text-align: center;
   width: 60vw;
   justify-content: end;
-  margin-right: 2rem;
+  margin-right: -20rem;
 }
 
 .nav-item {
