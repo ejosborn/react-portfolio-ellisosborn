@@ -1,4 +1,4 @@
-import VideoSectionMoreAboutMe from "../VideoSectionMoreAboutMe";
+import VideoSectionMoreAboutMe from "../MoreAboutMe/VideoSectionMoreAboutMe";
 
 function MoreAboutMe() {
   return (
