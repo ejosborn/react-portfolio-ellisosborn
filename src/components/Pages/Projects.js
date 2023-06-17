@@ -1,6 +1,13 @@
-import React from "react";
-import "../../App.css";
+import VideoSectionProjects from "../Projects/VideoSectionProjects";
+import ProjectsIntro from "../Projects/ProjectsIntro";
+import Footer from "../Footer";
 
 export default function Projects() {
-  return <h1 className="projects">Projects</h1>;
+  return (
+    <>
+      <VideoSectionProjects />
+      <ProjectsIntro />
+      <Footer />
+    </>
+  );
 }
