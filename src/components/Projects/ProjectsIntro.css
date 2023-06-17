@@ -1,0 +1,25 @@
+.projects-intro {
+  padding: 4rem;
+  background: #fff;
+}
+
+.projects-intro-container {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  max-width: 1120px;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.projects-intro__wrapper {
+  position: relative;
+  margin: 50px 0 45px;
+}
+
+.projects-intro__writing {
+  text-align: center;
+  color: #252e48;
+  font-size: 18px;
+  line-height: 24px;
+}
