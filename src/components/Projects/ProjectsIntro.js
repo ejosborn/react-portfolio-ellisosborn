@@ -17,7 +17,7 @@ function ProjectsIntro() {
 
             <h1>
               <br />
-              Frameworks
+              Libraries and Frameworks
               <br />
             </h1>
             <p>
