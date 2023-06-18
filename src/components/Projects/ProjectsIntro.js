@@ -7,11 +7,12 @@ function ProjectsIntro() {
       <div className="projects-intro-container">
         <div className="projects-intro__wrapper">
           <div className="projects-intro__writing">
-            <h1>Languages I Have Used</h1>
+            <h1>Languages</h1>
             <p>
               <br />
-              C#, C++, Java, SQL, PostgreSQL, Python, C,
-              <br />
+              C#, C++, Java, SQL, PostgreSQL, JavaScript, HTML,
+              Python, C, and R
+              <br /> <br />
             </p>
 
             <h1>
@@ -20,7 +21,7 @@ function ProjectsIntro() {
               <br />
             </h1>
             <p>
-              <br /> React, Xamarin,
+              <br /> React and Xamarin
             </p>
           </div>
         </div>
