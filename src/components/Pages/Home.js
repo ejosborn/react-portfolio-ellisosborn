@@ -2,8 +2,16 @@ import VideoSectionHome from "../Home/VideoSectionHome";
 import CardsHome from "../Home/CardsHome";
 import Footer from "../Footer";
 import MissionStatement from "../Home/MissionStatement";
+import { useEffect } from "react";
 
 function Home() {
+  useEffect(() => {
+    window.scrollTo({
+      top: 100,
+      left: 100,
+      behavior: "smooth",
+    });
+  }, []);
   return (
     <>
       <VideoSectionHome />
