@@ -5,7 +5,12 @@ import "./VideoSectionProjects.css";
 function VideoSection() {
   return (
     <div className="video-container">
-      <video src="/videos/nav-video1.mp4" autoPlay loop muted />
+      <video
+        src="/videos/programming-vid.mp4"
+        autoPlay
+        loop
+        muted
+      />
       <h1>Projects</h1>
     </div>
   );
