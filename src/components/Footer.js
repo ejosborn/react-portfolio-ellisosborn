@@ -17,7 +17,7 @@ function Footer() {
                 <div className="social-icons">
                   <Link
                     className="social-icon-link github"
-                    to="/"
+                    to="https://github.com/ejosborn"
                     target="_blank"
                     aria-label="Github"
                   >
