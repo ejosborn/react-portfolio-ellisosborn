@@ -3,10 +3,6 @@
   background: #fff;
 }
 
-h1 {
-  text-align: center;
-}
-
 .mission-statement__container {
   display: flex;
   flex-flow: column;
@@ -18,7 +14,7 @@ h1 {
 
 .mission-statement__wrapper {
   position: relative;
-  margin: 50 px 0 45px;
+  margin: 50px 0 45px;
 }
 
 .mission-statement-writing {
