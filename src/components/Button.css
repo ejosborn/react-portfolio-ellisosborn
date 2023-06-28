@@ -24,6 +24,11 @@
   transition: all 0.3s ease-out;
 }
 
+.btn--secondary {
+  background-color: #242424;
+  color: #fff;
+  border: 1px solid #242424;
+}
 .btn--medium {
   padding: 8px 20px;
   font-size: 20px;
