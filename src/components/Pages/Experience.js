@@ -2,6 +2,7 @@ import React from "react";
 import "../../App.css";
 import { useEffect } from "react";
 import ExperienceIntro from "../Experience/ExperienceIntro";
+import CardsExperience from "../Experience/CardsExperience";
 import Footer from "../Footer";
 
 export default function Experience() {
@@ -16,6 +17,7 @@ export default function Experience() {
   return (
     <>
       <ExperienceIntro />
+      <CardsExperience />
       <Footer />
     </>
   );

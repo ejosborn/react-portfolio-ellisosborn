@@ -1,7 +1,9 @@
 import ProjectsIntro from "../Projects/ProjectsIntro";
 import Footer from "../Footer";
-import CardsProject from "../Projects/CardsProject";
+import ProjectCardsProject from "../Projects/ProjectCardsProject";
+import CardsProject from "../Projects/ProjectCardsProject";
 import { useEffect } from "react";
+
 export default function Projects() {
   useEffect(() => {
     window.scrollTo({
@@ -12,8 +14,9 @@ export default function Projects() {
   }, []);
   return (
     <>
-      <CardsProject />
+      <ProjectCardsProject />
       <ProjectsIntro />
+      <CardsProject />
       <Footer />
     </>
   );
