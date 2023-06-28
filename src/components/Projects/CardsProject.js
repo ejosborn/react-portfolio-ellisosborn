@@ -12,19 +12,24 @@ function CardsProject() {
             <CardItem
               src="images/img-capstone.jpg"
               text="Windows App Developement for UAV Fuel Cell System"
-              path="/Projects/Project1"
+              language="Language: C#"
+              framework="Framework: Xamarin"
+              path="/Projects/Capstone"
             />
 
             <CardItem
               src="images/img-instant-messaging-app.jpg"
               text="Instant Messaging Application"
-              path="/Projects/Project2"
+              language="Language: JavaScript, HTML, SQL"
+              framework="Framework: React"
+              path="/Projects/Instant-Messaging-App"
             />
 
             <CardItem
               src="images/img-sudoku.jpg"
               text="Sudoku Solver"
-              path="/Projects/Project1"
+              language="Language: Python"
+              path="/Projects/Sudoku-Solver"
             />
           </ul>
         </div>
