@@ -11,20 +11,20 @@ function Cards() {
           <ul className="cards__items">
             <CardItem
               src="images/img-1.jpg"
-              text="Learn More About Me!"
+              text="Learn More About Me! (COMING SOON)"
               path="/More-About-Me"
             />
 
             <CardItem
               src="images/img-2.jpg"
-              text="Here's the latest project I'm working on"
+              text="Here's the latest project I'm working on! (COMING SOON)"
               path="/My-Latest-Project"
             />
 
             <CardItem
               src="images/img-3.jpg"
               text="Take a look at my resume!"
-              path="/Resume"
+              path="/Experience"
             />
           </ul>
         </div>
