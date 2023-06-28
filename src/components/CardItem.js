@@ -17,7 +17,13 @@ function CardItem(props) {
             />
           </figure>
           <div className="cards__item__info">
-            <h5 className="cards__item__text">{props.text}</h5>
+            <h5 className="cards__item__name">{props.text}</h5>
+            <h5 className="cards__item__language">
+              {props.language}
+            </h5>
+            <h5 className="cards__item__framework">
+              {props.framework}
+            </h5>
           </div>
         </Link>
       </li>
