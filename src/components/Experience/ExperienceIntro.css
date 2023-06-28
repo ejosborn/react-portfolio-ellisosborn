@@ -6,42 +6,52 @@
 .experience-intro__bio {
   font-size: 32px;
   text-align: center;
+  color: #252e48;
 }
 
 .experience-intro__bio-experience {
   text-align: left;
+  color:#252e48
 }
 
 .experience-intro__bio-experience > h2 {
   font-size: 32px;
+  color:#252e48
 }
 
 .experience-intro__bio-experience > p {
   font-size: 20px;
+  color:#252e48
 }
 
 .experience-intro__bio-education {
   text-align: left;
+  color:#252e48
 }
 
 .experience-intro__bio-education > h2 {
   font-size: 32px;
+  color:#252e48
 }
 
 .experience-intro__bio-education > p {
   font-size: 20px;
+  color:#252e48
 }
 
 .experience-intro__bio-interests {
   text-align: left;
+  color:#252e48
 }
 
 .experience-intro__bio-interests > h2 {
   font-size: 32px;
+  color:#252e48
 }
 
 .experience-intro__bio-interests > p {
   font-size: 20px;
+  color:#252e48
 }
 
 .experience-intro__container {
