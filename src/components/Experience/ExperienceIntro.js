@@ -17,7 +17,7 @@ function ExperienceIntro() {
               <div className="experience-intro__bio-education">
                 <h2>Education</h2>
                 <p>
-                  I recieved a BS in Computer Science with a
+                  I received a BS in Computer Science with a
                   concentration in Software Engineering
                 </p>
               </div>
@@ -27,8 +27,8 @@ function ExperienceIntro() {
               </div>
             </div>
             <div className="experience-intro__resume">
-              <h3>Take a look at my Resume</h3>
-              <a href="/Resume.pdf"> Download Here</a>
+              <a href="/Resume.pdf">See My Resume</a>
+              <br />
               <Button
                 className="btns"
                 buttonStyle="btn--secondary"
