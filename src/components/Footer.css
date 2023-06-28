@@ -23,13 +23,9 @@
   flex-direction: column;
   align-items: flex-start;
   margin: 16px;
-  text-align: left;
+  text-align: center;
   width: 160px;
   box-sizing: border-box;
-}
-
-.footer-links-items > h2 {
-  margin-bottom: 16px;
 }
 
 .footer-links-items > h2 {
@@ -39,7 +35,7 @@
 /* Social Icons */
 .social-icon-link {
   color: #fff;
-  font-size: 24px;
+  font-size: 30px;
 }
 
 .social-media {
