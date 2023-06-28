@@ -9,7 +9,6 @@
 .resume,
 .projects,
 .contact-me,
-.about-me,
 .my-latest-project {
   display: flex;
   height: 90vh;
@@ -37,15 +36,6 @@
 }
 
 .contact-me {
-  background-image: url("../public/images/img-2.jpg");
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  color: #fff;
-  font-size: 100px;
-}
-
-.about-me {
   background-image: url("../public/images/img-2.jpg");
   background-position: center;
   background-size: cover;

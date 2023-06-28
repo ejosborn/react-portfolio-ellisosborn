@@ -10,7 +10,6 @@ import Home from "./components/Pages/Home.js";
 import Experience from "./components/Pages/Experience";
 import Projects from "./components/Pages/Projects";
 import ContactMe from "./components/Pages/ContactMe";
-import AboutMe from "./components/Pages/About-Me";
 import MyLatestProject from "./components/Pages/My-Latest-Project";
 import MoreAboutMe from "./components/Pages/More-About-Me";
 
@@ -26,13 +25,16 @@ function App() {
             exact
             Component={Experience}
           />
-          <Route path="/Projects" exact Component={Projects} />
+          <Route
+            path="/Projects"
+            exact
+            Component={Projects}
+          />
           <Route
             path="/Contact-me"
             exact
             Component={ContactMe}
           />
-          <Route path="/About-me" exact Component={AboutMe} />
           <Route
             path="/My-Latest-Project"
             exact
