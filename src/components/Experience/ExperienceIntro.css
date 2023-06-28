@@ -1,0 +1,74 @@
+.experience-intro {
+  padding: 1rem;
+  text-align: center;
+}
+
+.experience-intro__bio {
+  font-size: 32px;
+  text-align: center;
+}
+
+.experience-intro__bio-experience {
+  text-align: left;
+}
+
+.experience-intro__bio-experience > h2 {
+  font-size: 32px;
+}
+
+.experience-intro__bio-experience > p {
+  font-size: 20px;
+}
+
+.experience-intro__bio-education {
+  text-align: left;
+}
+
+.experience-intro__bio-education > h2 {
+  font-size: 32px;
+}
+
+.experience-intro__bio-education > p {
+  font-size: 20px;
+}
+
+.experience-intro__bio-interests {
+  text-align: left;
+}
+
+.experience-intro__bio-interests > h2 {
+  font-size: 32px;
+}
+
+.experience-intro__bio-interests > p {
+  font-size: 20px;
+}
+
+.experience-intro__container {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  max-width: 1120px;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.experience-intro__wrapper {
+  position: relative;
+  margin: 10px 0 45px;
+}
+
+.experience-intro__content {
+  color: #252e48;
+  font-size: 18px;
+  line-height: 24px;
+}
+
+a {
+  color: #242424;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
