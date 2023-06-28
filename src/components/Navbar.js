@@ -34,11 +34,11 @@ function Navbar() {
             {/* Resume Page */}
             <li className="nav-item">
               <Link
-                to="/Resume"
+                to="/Experience"
                 className="nav-links"
                 onClick={closeMobileMenu}
               >
-                Resume
+                Experience
               </Link>
             </li>
 
