@@ -1,9 +1,9 @@
-.mission-statement {
+.about-me {
   padding: 2rem;
   background: #fff;
 }
 
-.mission-statement__container {
+.about-me__container {
   display: flex;
   flex-flow: column;
   align-items: center;
@@ -12,12 +12,12 @@
   margin: 0 auto;
 }
 
-.mission-statement__wrapper {
+.about-me__wrapper {
   position: relative;
-  margin: 10px 0 10px;
+  margin: 10px 0px 10px;
 }
 
-.mission-statement-writing {
+.about-me-writing {
   color: #252e48;
   font-size: 18px;
   line-height: 24px;
