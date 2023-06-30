@@ -5,7 +5,7 @@ import "./CardsHome.css";
 function Cards() {
   return (
     <div className="cards">
-      <h1>Check out the rest of the website!</h1>
+      <h1>Check out the Rest of the Website!</h1>
       <div className="cards__container">
         <div className="cards__wrapper">
           <ul className="cards__items">
@@ -23,7 +23,7 @@ function Cards() {
 
             <CardItem
               src="images/img-3.jpg"
-              text="Take a look at my resume!"
+              text="Take a look at my Resume!"
               path="/Experience"
             />
           </ul>
