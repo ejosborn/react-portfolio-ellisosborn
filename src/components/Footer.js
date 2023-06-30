@@ -9,8 +9,7 @@ function Footer() {
         <div className="footer-link-wrapper">
           <div className="footer-links-items">
             <h2>
-              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Socials
+              &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Socials
             </h2>
             <section className="social-media">
               <div className="social-media-wrap">
@@ -26,7 +25,7 @@ function Footer() {
 
                   <Link
                     className="social-icon-link linkedIn"
-                    to="/"
+                    to="https://www.linkedin.com/in/ellis-osborn/"
                     target="_blank"
                     aria-label="LinkedIn"
                   >
@@ -35,23 +34,27 @@ function Footer() {
 
                   <Link
                     className="social-icon-link indeed"
-                    to="https://profile.indeed.com/?hl=en_US&co=US&from=gnav-menu-homepage&_ga=2.80985751.1079350815.1686765695-1087405970.1686765695"
+                    to="https://twitter.com/EllisjOsborn/"
                     target="_blank"
-                    aria-label="Indeed"
+                    aria-label="Twitter"
                   >
-                    <i class="fa-solid fa-info"></i>
+                    <i class="fab fa-twitter"></i>
                   </Link>
 
                   <Link
                     className="social-icon-link github"
-                    to="/"
+                    to="https://www.instagram.com/ellisosborn_/"
                     target="_blank"
-                    aria-label="Github"
+                    aria-label="Instagram"
                   >
-                    <i className="fa-brands fa-square-github" />
+                    <i className="fa-brands fa-instagram" />
                   </Link>
                 </div>
               </div>
+              <small class="website-rights">
+                &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+                Ellis Osborn © 2023
+              </small>
             </section>
           </div>
         </div>
