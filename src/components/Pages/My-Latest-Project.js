@@ -11,6 +11,8 @@ export default function MyLatestProject() {
     });
   }, []);
   return (
-    <h1 className="my-latest-project">My Latest Project</h1>
+    <h1 className="my-latest-project">
+      My Latest Project <br /> (COMING SOON)
+    </h1>
   );
 }

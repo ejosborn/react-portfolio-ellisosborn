@@ -11,7 +11,9 @@ function VideoSectionMoreAboutMe() {
         loop
         muted
       />
-      <h1>More About Me!</h1>
+      <h1>
+        More About Me! <br /> (COMING SOON)
+      </h1>
     </div>
   );
 }
