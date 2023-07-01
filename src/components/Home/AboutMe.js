@@ -16,18 +16,28 @@ function AboutMe() {
               Hi, I'm Ellis! I'm a 23 year old recent
               college graduate currently living in Phoenix,
               Arizona, but soon moving out to Los Angeles,
-              California. I first got into coding after
-              watching a friend create his own website and
-              thinking that I could do better (I soon
-              realized I could not).
+              California. I have always been interested in
+              technology, specifically coding, but never
+              committed to it because I no experience other
+              than an HTML class I had taken in 8th grade
+              that I was so lost in, I never wanted to look
+              code ever again. That was until I watched a
+              youtube video online seeing someone make a
+              "Hello World" tutorial in Java and saw how
+              easy it could be. Just kidding, what truly
+              caught my eye was how code is used for almost
+              everything in this world.
               <br /> <br />
-              I enjoy creating pieces of software that help
-              me learn what I was not taught in school.
+              I'm committed to use my education, experience,
+              and knowledge to create meaningful software
+              for clients or end users. I'm eager to learn
+              new concepts and I work well in team
+              environments.
               <br /> <br />
               When I'm not working, you can find me playing
-              video games such as Valorant, Rocket League,
-              and sometimes smashing my face into a brick
-              wall playing Elden Ring.
+              video games such as Valorant and Rocket
+              League, playing basketball with friends, or
+              going to coffee shops!
             </p>
           </div>
         </div>

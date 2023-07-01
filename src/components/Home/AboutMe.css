@@ -1,5 +1,5 @@
 .about-me {
-  padding: 2rem 2rem 10rem 2rem;
+  padding: 2rem 2rem 1rem 2rem;
   background: #fff;
 }
 
@@ -10,7 +10,6 @@
 
 .about-me__container {
   display: flex;
-  align-items: center;
   max-width: 1120px;
   width: 90%;
   margin: 0 auto;
@@ -24,18 +23,20 @@
 .about-me-writing {
   color: #252e48;
   font-size: 18px;
-  line-height: 24px;
+  line-height: 28px;
 }
 
 .about-me-writing > p {
   margin-left: 30%;
   margin-top: -35%;
+  text-align: left;
 }
 
-img {
+.about-me-writing > img {
   height: 400px;
   width: 350px;
   margin-left: -10%;
+  border-radius: 50%;
 }
 
 @media screen and (max-width: 960px) {
@@ -44,7 +45,7 @@ img {
     margin-top: -50%;
   }
 
-  img {
+  .about-me-writing > img {
     height: 400px;
     width: 350px;
     margin-left: -8%;
@@ -52,7 +53,7 @@ img {
 
   .about-me__wrapper {
     position: relative;
-    margin: 10px 0px 40px;
+    margin: 10px 0;
   }
 
   .spacing {
@@ -61,10 +62,10 @@ img {
 }
 
 @media screen and (max-width: 517px) {
-  img {
+  .about-me-writing > img {
     height: 400px;
     width: 350px;
-    margin-left: 0%;
+    margin-left: 14px;
   }
 
   .about-me-writing > p {
