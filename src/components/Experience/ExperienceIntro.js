@@ -88,9 +88,11 @@ function ExperienceIntro() {
                   I received a B.S in Computer Science with
                   a concentration in Software Engineering.
                   Throughout my education at Arizona State
-                  University, I learned the OOP languages
-                  such as: Java, Python, C++, and C. I
-                  learned data structures and algorithms.
+                  University, I learned OOP languages such
+                  as: Java, Python, C++, and C, data
+                  structures and algorithms, and had
+                  introductions to theoretical computer
+                  science, cybersecurity, and data science.
                   Critically thinking to come up with
                   solutions has been one of the most
                   prominent skills that I have learned
