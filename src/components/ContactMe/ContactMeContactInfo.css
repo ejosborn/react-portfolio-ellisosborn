@@ -1,0 +1,45 @@
+.contact-me {
+  padding: 2rem;
+  background: #fff;
+}
+
+.contact-me__container {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  max-width: 1120px;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.contact-me__wrapper {
+  position: relative;
+  margin: 10px 0 10px;
+}
+
+.contact-me-writing {
+  color: #252e48;
+  font-size: 18px;
+  line-height: 24px;
+  margin: 10px;
+  text-align: center;
+}
+
+.contact-me-writing > a {
+  color: #252e48;
+  font-size: 30px;
+  text-align: center;
+}
+
+a::hover {
+  color: red;
+  font-size: 10px;
+  text-align: center;
+}
+
+p {
+  color: #252e48;
+  font-size: 30px;
+  text-align: center;
+  margin: 10px 0;
+}
