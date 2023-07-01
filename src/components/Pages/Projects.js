@@ -1,7 +1,6 @@
 import ProjectsIntro from "../Projects/ProjectsIntro";
-import Footer from "../Footer";
 import ProjectCardsProject from "../Projects/ProjectCardsProject";
-import CardsProject from "../Projects/ProjectCardsProject";
+import CardsProject from "../Projects/CardsProject";
 import { useEffect } from "react";
 
 export default function Projects() {
@@ -17,7 +16,6 @@ export default function Projects() {
       <ProjectCardsProject />
       <ProjectsIntro />
       <CardsProject />
-      <Footer />
     </>
   );
 }

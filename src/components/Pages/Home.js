@@ -1,8 +1,6 @@
 import VideoSectionHome from "../Home/VideoSectionHome";
 import CardsHome from "../Home/CardsHome";
 import AboutMe from "../Home/AboutMe";
-import Footer from "../Footer";
-import MissionStatement from "../Home/MissionStatement";
 import { useEffect } from "react";
 
 function Home() {
@@ -17,9 +15,7 @@ function Home() {
     <>
       <VideoSectionHome />
       <AboutMe />
-      <MissionStatement />
       <CardsHome />
-      <Footer />
     </>
   );
 }

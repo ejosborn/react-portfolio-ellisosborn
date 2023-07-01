@@ -3,7 +3,6 @@ import "../../App.css";
 import { useEffect } from "react";
 import ExperienceIntro from "../Experience/ExperienceIntro";
 import CardsExperience from "../Experience/CardsExperience";
-import Footer from "../Footer";
 
 export default function Experience() {
   useEffect(() => {
@@ -18,7 +17,6 @@ export default function Experience() {
     <>
       <ExperienceIntro />
       <CardsExperience />
-      <Footer />
     </>
   );
 }
