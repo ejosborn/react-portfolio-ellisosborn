@@ -26,13 +26,13 @@ function CardsProject() {
             />
           </ul>
           <ul className="cards__items">
-          <CardItem
+            <CardItem
               src="images/img-sudoku.jpg"
               text="Sudoku Solver"
               language="Language: Python"
               path="https://github.com/ejosborn/Sudoku-Solver"
             />
-          <CardItem
+            <CardItem
               src="images/img-restapi-project.jpg"
               text="Sudoku Solver"
               language="Language: C#"
