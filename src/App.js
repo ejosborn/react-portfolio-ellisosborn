@@ -12,6 +12,7 @@ import Projects from "./components/Pages/Projects";
 import ContactMe from "./components/Pages/ContactMe";
 import MyLatestProject from "./components/Pages/My-Latest-Project";
 import MoreAboutMe from "./components/Pages/More-About-Me";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -46,6 +47,7 @@ function App() {
             Component={MoreAboutMe}
           ></Route>
         </Routes>
+        <Footer />
       </Router>
     </>
   );
