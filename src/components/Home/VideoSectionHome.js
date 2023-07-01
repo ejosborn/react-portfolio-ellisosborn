@@ -11,8 +11,7 @@ function VideoSection() {
         loop
         muted
       />
-      <h1>Welcome to The Website</h1>
-      <p>Ellis Osborn</p>
+      <h1>Welcome to My Website</h1>
     </div>
   );
 }
