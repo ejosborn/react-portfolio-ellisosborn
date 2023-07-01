@@ -8,8 +8,6 @@ function ContactMeContactInfo() {
       <div className="contact-me__container">
         <div className="contact-me__wrapper">
           <div className="contact-me-writing">
-            <h1>Ellis Osborn</h1>
-            <br />
             <p>The best way to reach me is at:</p>
             <a href="mailto:ellisosborn00@gmail.com">
               ellisosborn00@gmail.com
