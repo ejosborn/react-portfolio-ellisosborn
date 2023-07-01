@@ -13,13 +13,26 @@ function Navbar() {
     <>
       <nav className="navbar">
         <div className="navbar-container">
+          <Link
+            to="/"
+            className="navbar-name"
+            onClick={closeMobileMenu}
+          >
+            Ellis Osborn
+          </Link>
           {/* Hamburger Icon */}
           <div className="menu-icon" onClick={handleClick}>
             <i
-              className={click ? "fas fa-times" : "fas fa-bars"}
+              className={
+                click ? "fas fa-times" : "fas fa-bars"
+              }
             />
           </div>
-          <ul className={click ? "nav-menu active" : "nav-menu"}>
+          <ul
+            className={
+              click ? "nav-menu active" : "nav-menu"
+            }
+          >
             {/* Home Page */}
             <li className="nav-item">
               <Link
