@@ -1,5 +1,8 @@
+import React from "react";
 import { useEffect } from "react";
-import "../../App.css";
+import "../ContactMe/CardsContactMe.css";
+import ContactMeContactInfo from "../ContactMe/ContactMeContactInfo";
+import CardsHome from "../Home/CardsHome";
 
 export default function ContactMe() {
   useEffect(() => {
@@ -9,5 +12,11 @@ export default function ContactMe() {
       behavior: "smooth",
     });
   }, []);
-  return <h1 className="contact-me">Contact Me!</h1>;
+
+  return (
+    <>
+      <ContactMeContactInfo />
+      <CardsHome />
+    </>
+  );
 }
