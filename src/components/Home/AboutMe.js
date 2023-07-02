@@ -17,21 +17,18 @@ function AboutMe() {
               college graduate currently living in Phoenix,
               Arizona, but soon moving out to Los Angeles,
               California. I have always been interested in
-              technology, specifically coding, but never
-              committed to it because I no experience other
-              than an HTML class I had taken in 8th grade
-              that I was so lost in, I never wanted to look
-              code ever again. That was until I watched a
-              youtube video online seeing someone make a
-              "Hello World" tutorial in Java and saw how
-              easy it could be. Just kidding, what truly
-              caught my eye was how code is used for almost
-              everything in this world.
+              technology, specifically coding, but lacked
+              the experience to pursue it. That was until I
+              watched a video online of a "Hello World"
+              tutorial in Java and saw how easy it could be.
+              Just kidding. What truly caught my eye was how
+              code is used in every piece of technology
+              around us.
               <br /> <br />
               I'm committed to use my education, experience,
               and knowledge to create meaningful software
               for clients or end users. I'm eager to learn
-              new concepts and I work well in team
+              new concepts and I work well in collaborative
               environments.
               <br /> <br />
               When I'm not working, you can find me playing
