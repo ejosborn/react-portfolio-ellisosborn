@@ -10,13 +10,19 @@ function CardsProject() {
         <div className="cards__wrapper">
           <ul className="cards__items">
             <CardItem
-              src="images/img-capstone.jpg"
-              text="Windows App Development for UAV Fuel Cell System"
-              language="Language: C#"
-              framework="Framework: Xamarin"
-              path="https://github.com/IMSkidmore/FinalCapstone"
+              src="images/img-tokenbased-frontend.jpg"
+              text="Token Based Authentication System"
+              language="Language: JavaScript, HTML, CSS, Python, SQLite3"
+              framework="Framework: VueJS, Flask"
+              path="https://github.com/ejosborn/tokenbased-authsystem-frontend"
             />
-
+            <CardItem
+              src="images/img-webcrawler.jpg"
+              text="Web Crawler"
+              language="Language: JavaScript"
+              framework="Framework: Node.js"
+              path="https://github.com/ejosborn/Instant-Messaging-Application"
+            />
             <CardItem
               src="images/img-instant-messaging-app.jpg"
               text="Instant Messaging Application"
@@ -26,6 +32,13 @@ function CardsProject() {
             />
           </ul>
           <ul className="cards__items">
+            <CardItem
+              src="images/img-capstone.jpg"
+              text="Windows App Development for UAV Fuel Cell System"
+              language="Language: C#"
+              framework="Framework: Xamarin"
+              path="https://github.com/IMSkidmore/FinalCapstone"
+            />
             <CardItem
               src="images/img-sudoku.jpg"
               text="Sudoku Solver"
