@@ -17,22 +17,20 @@ function ExperienceIntro() {
                   Army Reserves(MOS: 35S) Signals Collection
                   Analyst
                 </h5>
-                <p>November 2017 - Present</p>
+                <p>November 2017 - October 2023</p>
                 <p>
                   &nbsp;&nbsp;&nbsp;- Top Secret Clearance -
                   TS/SCI
                 </p>
                 <p>
-                  &nbsp;&nbsp;&nbsp;- Responsible for
-                  detection, acquisition, location and
-                  identification of foreign electronic
-                  intelligence
+                  &nbsp;&nbsp;&nbsp;- Responsible for detection, 
+                  acquisition, location, and identification of 
+                  foreign electronic intelligence
                 </p>
                 <p>
-                  &nbsp;&nbsp;&nbsp;- Trained in exploiting
-                  non-voice communications and other
-                  electronic signals to provide
-                  strategic/tactical intelligence
+                  &nbsp;&nbsp;&nbsp;- Trained in exploiting 
+                  non-voice communications and other electronic 
+                  signals to provide strategic/tactical intelligence
                 </p>
                 <br />
 
@@ -41,7 +39,7 @@ function ExperienceIntro() {
                   Wave Plumbing -- IT and Online Sales
                   Coordinator
                 </h5>
-                <p>January 2020 - Present</p>
+                <p>January 2020 - July 2023</p>
                 <p>
                   &nbsp;&nbsp;&nbsp;- Troubleshoot software
                   and structural technological issues for a
@@ -64,7 +62,7 @@ function ExperienceIntro() {
 
                 {/* Experience 3 */}
                 <h5>Best Buy -- Sales Consultant</h5>
-                <p>August 2022 - Present</p>
+                <p>August 2022 - September 2023</p>
                 <p>
                   &nbsp;&nbsp;&nbsp;- Consult with customers
                   to find best technology solutions for
@@ -113,14 +111,11 @@ function ExperienceIntro() {
               <div className="experience-intro__bio-interests">
                 <h2>Interests</h2>
                 <p>
-                  I am interested in joining the field of
-                  aerospace as an entry level or associate
-                  software engineer, but I welcome all other
-                  opportunities. Some other opportunities
-                  I'd be interested in exploring are testing
-                  code and creating documentation, front end
-                  and back end development, web development,
-                  and database administration.
+                  I am interested in joining the field as an 
+                  entry level fullstack or backend developer, but 
+                  I welcome all other opportunities. Some other 
+                  opportunities I'd be interested in exploring 
+                  are Quality Assurance testing and database administration.
                 </p>
                 <br />
               </div>
