@@ -10,19 +10,17 @@ function ProjectsIntro() {
             <h1>Languages</h1>
             <p>
               <br />
-              C#, C++, Java, SQL, PostgreSQL, JavaScript,
-              HTML, CSS, Python, C, and R
+              Python, JavaScript, C#, C++, Java, SQL, HTML, CSS, C, and R
               <br /> <br />
             </p>
 
             <h1>
               <br />
-              Libraries and Frameworks
+              Frameworks
               <br />
             </h1>
             <p>
-              <br /> React.js, Node.js, ASPX.NET, and
-              Xamarin
+              <br /> React.js, Vue.js, Node.js, Flask, and Xamarin
             </p>
 
             <h1>
@@ -31,9 +29,8 @@ function ProjectsIntro() {
               <br />
             </h1>
             <p>
-              <br /> Linux, Windows, Git, Github,
-              VirtualBox, RESTful/SOAP web services, Web
-              APIs, Command Line
+              <br /> Linux, Windows, MacOS, Git/Github, VirtualBox, 
+              RESTful and SOAP web services, Web APIs, Command Line
             </p>
 
             <h1>
@@ -42,9 +39,8 @@ function ProjectsIntro() {
               <br />
             </h1>
             <p>
-              <br /> Microsoft Office Tools, Technical
-              Writing, Technical Communication, Data
-              Visualization, Critical Thinking
+              <br /> Microsoft Office Tools, Technical Writing,
+              Technical Communication, Data Visualization, Critical Thinking
             </p>
           </div>
         </div>
