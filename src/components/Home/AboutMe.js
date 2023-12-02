@@ -14,8 +14,7 @@ function AboutMe() {
             />
             <p>
               Hi, I'm Ellis! I'm a 23 year old recent
-              college graduate currently living in Phoenix,
-              Arizona, but soon moving out to Los Angeles,
+              college graduate currently living in Los Angeles,
               California. I have always been interested in
               technology, specifically coding, but lacked
               the experience to pursue it. That was until I
